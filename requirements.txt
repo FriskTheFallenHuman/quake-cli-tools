@@ -3,5 +3,5 @@ progress>=1.5
 vgio>=1.1.0
 svgwrite>=1.3.1
 tabulate>=0.8.3
-watchdog>=0.9.0
+watchdog>=6.0.0
 
