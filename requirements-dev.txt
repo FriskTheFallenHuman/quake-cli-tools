@@ -1,2 +1,2 @@
-PyInstaller>=6.2.0
+PyInstaller>=6.20.0
 twine==1.14.0
